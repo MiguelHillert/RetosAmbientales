@@ -11,10 +11,8 @@
 - La emisión de gases de efecto invernadero está alterando el clima global, provocando alteraciones.
 
 ## Contaminación
-- Basura
-- Aire
-- Mar
-- Tierra
+Para reducir la contaminación tenemos retos en muchos sectores:
+- 
 
 ## Pérdida de la Biodiversidad
 - Deforestación
