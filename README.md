@@ -2,7 +2,7 @@
 
 _Un trabajo sobre Retos Ambientales y Sociales_
 
-![tipos-de-cambio-climatico](https://github.com/user-attachments/assets/a98eaae7-fc3e-4ea4-8ebe-e006dc3a8400){width=500 height=500}
+![tipos-de-cambio-climatico](https://github.com/user-attachments/assets/a98eaae7-fc3e-4ea4-8ebe-e006dc3a8400)
 
 ---
 
