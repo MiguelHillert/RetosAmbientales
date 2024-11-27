@@ -7,12 +7,27 @@
 ---
 
 ## Cambio Climático
-- Con el clima nos referimos al conjunto de condiciones atmosféricas que prevalecen en una misma región durante un periodo de tiempo largo, teniendo en cuenta la temperatura, precipitación, humedad, etc.
-- La emisión de gases de efecto invernadero está alterando el clima global, provocando alteraciones.
+* Con el clima nos referimos al conjunto de condiciones atmosféricas que prevalecen en una misma región durante un periodo de tiempo largo, teniendo en cuenta la temperatura, precipitación, humedad, etc.
+* La emisión de gases de efecto invernadero está alterando el clima global, provocando alteraciones.
 
 ## Contaminación
-Para reducir la contaminación tenemos retos en muchos sectores:
-- 
+Para reducir la contaminación, los retos que tenemos que seguir son los siguientes:
+
+* Reducción de la contaminación atmosférica
+  - Disminuir la emisión de gases que se emiten en las fábricas y en los vehículos.
+
+* Gestión de la contaminación del agua
+  - Evitar el vertido de residuos al mar, ríos, etc.
+  - Mejorar las tecnologías para tratar las aguas residuales.
+  
+* Control de la contaminación de la tierra
+  - Mejorar el control de vertido de residuos en el suelo, químicos, basura, plásticos, etc.
+
+* Manejo de la contaminación lumínica
+  - Se deberían de gestionar el derroche energético ocurrido en alguinos lugares
+
+* Contaminación por plásticos y microplásticos
+  -
 
 ## Pérdida de la Biodiversidad
 - Deforestación
