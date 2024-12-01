@@ -6,31 +6,24 @@
 
 ### Cambio Climático
 * Con el clima nos referimos al conjunto de condiciones atmosféricas que prevalecen en una misma región durante un periodo de tiempo largo, teniendo en cuenta la temperatura, precipitación, humedad, etc.
-
 * La emisión de gases de efecto invernadero está modificando el clima global, provocando alteraciones y teniendo graves consecuencias.
 
 ### Contaminación
 Para reducir la contaminación, los retos que tenemos que seguir son los siguientes:
-
 * Reducción de la contaminación atmosférica
   - Disminuir la emisión de gases que emiten las fábricas y los vehículos.
-
 * Gestión de la contaminación del agua
   - Evitar el vertido de residuos al mar, ríos, etc.
   - Mejorar las tecnologías para tratar las aguas residuales.
-  
 * Control de la contaminación de la tierra
   - Mejorar el control de vertido de residuos en el suelo, químicos, basura, plásticos, etc.
-
 * Manejo de la contaminación lumínica
   - Se deberían de gestionar el derroche energético ocurrido en alguinos lugares como paises, pueblos, ciudades, etc.
-
 * Plásticos como emisores de carbono
   - Quizás hablemos de unos de los temas más importantes hoy en día ya que las emisiones de la producción, transporte, incineración y degradación del plástico equivale a las emisiones anuales de 200 centrales eléctricas.
 
 ### Pérdida de la Biodiversidad
 - **Deforestación** a causa de la tala masiva de árboles.
-
 - **Expansión urbana**: hace que tengamos que erradicar naturaleza para poder seguir expandiendo ciudades, pueblos y seguir construyendo.
 
 ### Gestión insostenible de recursos
