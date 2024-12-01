@@ -4,8 +4,6 @@
 
 ## 🥀 _Retos ambientales_
 
----
-
 ### Cambio Climático
 * Con el clima nos referimos al conjunto de condiciones atmosféricas que prevalecen en una misma región durante un periodo de tiempo largo, teniendo en cuenta la temperatura, precipitación, humedad, etc.
 * La emisión de gases de efecto invernadero está alterando el clima global, provocando alteraciones.
@@ -30,17 +28,15 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
   -
 
 ### Pérdida de la Biodiversidad
-- Deforestación
-- Expansión urbana
+- **Deforestación** a causa de la tala masiva de árboles.
+- **Expansión urbana** hace que tengamos que erradicar naturaleza para poder seguir expandiendo ciudades, pueblos y seguir construyendo.
 
 ### Gestión insostenible de recursos
-- Sobreexplotación de agua, suelos, bosques
+- Consumo de agua: Esto hace referencia a la cantidad de agua que consumimos diariamente, que aunque haya mucha, no es apta para su consumo. Los hogares son el mayor consumidor de agua potable en todo el planeta, mientras que el sector de la agricultra es el que mas agua "no potable" gasta.
 
 ---
 
-## 🥴 _Retos sociales_
-
----
+## 👨‍👩‍👧‍👦 _Retos sociales_
 
 ### Desigualdad Social y Económica
 - Diferencias entre ser rico y pobre
