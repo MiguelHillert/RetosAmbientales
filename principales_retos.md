@@ -22,10 +22,9 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
   - Mejorar el control de vertido de residuos en el suelo, químicos, basura, plásticos, etc.
 
 * Manejo de la contaminación lumínica
-  - Se deberían de gestionar el derroche energético ocurrido en alguinos lugares
+  - Se deberían de gestionar el derroche energético ocurrido en alguinos lugares como paises, pueblos, ciudades, etc.
 
 * Contaminación por plásticos y microplásticos
-  -
 
 ### Pérdida de la Biodiversidad
 - **Deforestación** a causa de la tala masiva de árboles.
