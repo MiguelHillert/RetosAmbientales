@@ -15,7 +15,7 @@ _Un trabajo sobre Retos Ambientales y Sociales_
 
 ---
 
-## 📑 Conclusiones
+## 📑 Conclusiones [Ver](conclusiones.md)
 [Ver documento](conclusiones.md)
 
 ## 🧷 Mapa conceptual
