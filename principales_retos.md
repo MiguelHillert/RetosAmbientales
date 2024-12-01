@@ -10,16 +10,20 @@
 
 ### Contaminación
 Para reducir la contaminación, los retos que tenemos que seguir son los siguientes:
-* Reducción de la contaminación atmosférica
+* **Reducir la contaminación atmosférica**
   - Disminuir la emisión de gases que emiten las fábricas y los vehículos.
-* Gestión de la contaminación del agua
+
+* **Gestión de la contaminación del agua**
   - Evitar el vertido de residuos al mar, ríos, etc.
   - Mejorar las tecnologías para tratar las aguas residuales.
-* Control de la contaminación de la tierra
+
+* **Control de la contaminación de la tierra**
   - Mejorar el control de vertido de residuos en el suelo, químicos, basura, plásticos, etc.
-* Manejo de la contaminación lumínica
+
+* **Manejo de la contaminación lumínica**
   - Se deberían de gestionar el derroche energético ocurrido en alguinos lugares como paises, pueblos, ciudades, etc.
-* Plásticos como emisores de carbono
+
+* **Plásticos como emisores de carbono**
   - Quizás hablemos de unos de los temas más importantes hoy en día ya que las emisiones de la producción, transporte, incineración y degradación del plástico equivale a las emisiones anuales de 200 centrales eléctricas.
 
 ### Pérdida de la Biodiversidad
