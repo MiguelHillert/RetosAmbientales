@@ -2,15 +2,15 @@
 
 ---
 
-## 🥀 _Retos ambientales_
+##🥀 _Retos ambientales_
 
 ---
 
-## Cambio Climático
+### Cambio Climático
 * Con el clima nos referimos al conjunto de condiciones atmosféricas que prevalecen en una misma región durante un periodo de tiempo largo, teniendo en cuenta la temperatura, precipitación, humedad, etc.
 * La emisión de gases de efecto invernadero está alterando el clima global, provocando alteraciones.
 
-## Contaminación
+### Contaminación
 Para reducir la contaminación, los retos que tenemos que seguir son los siguientes:
 
 * Reducción de la contaminación atmosférica
@@ -29,11 +29,11 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
 * Contaminación por plásticos y microplásticos
   -
 
-## Pérdida de la Biodiversidad
+### Pérdida de la Biodiversidad
 - Deforestación
 - Expansión urbana
 
-## Gestión insostenible de recursos
+### Gestión insostenible de recursos
 - Sobreexplotación de agua, suelos, bosques
 
 ---
@@ -42,15 +42,15 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
 
 ---
 
-## Desigualdad Social y Económica
+### Desigualdad Social y Económica
 - Diferencias entre ser rico y pobre
 
-# Crisis de migración
+### Crisis de migración
 - **Guerras, pobreza**: Esto provoca que muchas personas tomen la decisión de irse de su país
 
-# Crecimiento demográfico y urbanización
+### Crecimiento demográfico y urbanización
 - **Expansión descontrolada y superpoblación**: Según la ONU, se prevee que en el año 2050, la población de la tierra estará rondando los 9.7 millones de personas.
 - **Contaminación lumínica**: Se produce cuando luz artificial de una zona urbanizada es excesiva, alterando los ciclos naturales, la salud de las personas, etc
 
-# Falta de acceso a educación y salud
+### Falta de acceso a educación y salud
 - Ausencia de servicios básicos en personas de pocos recursos
