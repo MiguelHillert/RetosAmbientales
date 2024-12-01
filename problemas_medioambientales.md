@@ -48,6 +48,50 @@ La pérdida de biodiversidad, impulsada por la deforestación y la expansión ur
 
 La gestión insostenible de recursos, como la sobreexplotación de agua, bosques, minerales y combustibles fósiles, está agotando rápidamente las reservas naturales del planeta. Actualmente, esto provoca deforestación, pérdida de biodiversidad, degradación de suelos y escasez de agua potable. Además, contribuye al cambio climático y genera conflictos sociales por el acceso a recursos limitados. Este modelo de consumo supera la capacidad de regeneración del planeta, poniendo en riesgo la sostenibilidad ambiental y el bienestar de las futuras generaciones.
 
+Retos Sociales
+
+-Desigualdad social y económica (diferencia entre rico y pobre)
+
+La desigualdad genera un uso ineficiente de los recursos naturales. Los sectores más ricos suelen tener patrones de consumo intensivos en carbono (uso de combustibles fósiles, desperdicio de alimentos, alta huella hídrica), mientras que los más pobres a menudo recurren a la explotación ambiental directa (deforestación, pesca no sostenible) debido a la falta de alternativas. Esto exacerba la degradación ambiental y limita la capacidad de regeneración de los ecosistemas.
+
+-Crisis de migración (guerras, pobreza)
+
+La migración forzada puede aumentar la presión sobre los ecosistemas en las áreas receptoras, especialmente en asentamientos improvisados, donde la deforestación, la contaminación de aguas y la generación de residuos son frecuentes. Además, en las zonas de origen, la guerra y la pobreza suelen provocar abandono de tierras, sobreexplotación de recursos o daños directos al medio ambiente (como la destrucción de infraestructuras o contaminación por conflictos bélicos).
+
+-Crecimiento demográfico (expansión descontrolada y superpoblación)
+
+La superpoblación intensifica la demanda de recursos como agua, alimentos y energía, causando deforestación, pérdida de biodiversidad, agotamiento de acuíferos y aumento de emisiones de gases de efecto invernadero. Las ciudades densamente pobladas suelen enfrentar problemas de contaminación y gestión de residuos, lo que genera mayores impactos ecológicos.
+
+-Falta de acceso a educación y salud (ausencia de servicios básicos para los menos favorecidos)
+
+La falta de acceso a la educación limita el conocimiento sobre prácticas sostenibles, mientras que la falta de salud adecuada puede agravar problemas de higiene y contaminación. Las comunidades sin servicios básicos suelen depender de métodos de supervivencia no sostenibles, como la tala ilegal o la quema de combustibles sólidos, lo que contribuye a la degradación ambiental.
+
+
+Medidas y acciones para reducir el impacto
+-Reducir la desigualdad social y económica
+
+Promover políticas fiscales progresivas y redistribución equitativa de recursos.
+Fomentar economías circulares que ofrezcan empleos verdes y sostenibles.
+Incentivar el consumo responsable en las clases más altas y la inclusión social en el acceso a tecnologías sostenibles.
+
+-Gestionar la crisis de migración
+
+Crear programas de reforestación y restauración ecológica en áreas receptoras y de origen.
+Desarrollar infraestructuras sostenibles en asentamientos migratorios.
+Fomentar la paz y la inversión en desarrollo sostenible en las regiones de origen.
+
+-Controlar el crecimiento demográfico
+
+Implementar programas de planificación familiar y acceso a métodos anticonceptivos.
+Fomentar políticas de urbanización sostenible y descentralización de las ciudades.
+Promover una cultura de consumo más eficiente y sostenible.
+
+-Mejorar el acceso a educación y salud
+
+Establecer programas educativos enfocados en sostenibilidad ambiental.
+Garantizar acceso a servicios básicos de salud y saneamiento, reduciendo prácticas dañinas para el medio ambiente.
+Desarrollar proyectos comunitarios que integren soluciones ecológicas como energías renovables y agricultura regenerativa.
+
 
 
 
