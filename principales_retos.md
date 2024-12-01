@@ -45,6 +45,6 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
 - **Guerras, pobreza**: esto provoca que muchas personas tomen la decisión de irse de su país
 
 ### Crecimiento demográfico y urbanización
-- **Expansión descontrolada y superpoblación**: según la ONU, se prevee que en el año 2050, la población de la tierra estará rondando los 9.7 millones de personas.
+- **Expansión descontrolada y superpoblación**: según la ONU, se prevee que en el año 2050, la población de la tierra estará rondando los 9.7 millones de personas, siendo India (1441 millones), China (1410 millones) y Estados Unidos (337 millones), los 3 países más poblados del mundo.
 - **Contaminación lumínica**: se produce cuando luz artificial de una zona urbanizada es excesiva, alterando los ciclos naturales, la salud de las personas, etc
 
