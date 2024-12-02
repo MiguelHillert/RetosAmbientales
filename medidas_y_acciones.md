@@ -2,7 +2,7 @@
 
 ---
 
-Cabe destacar la importancia de realizar una Evaluación de Impacto Ambiental, también conocido como EIA para valorar los impactos producidos sobre el medio ambiente. Se presentan varias alternativas, buscando la más óptima para un proyecto en concreto.
+Cabe destacar la importancia de realizar una _Evaluación de Impacto Ambiental_, también conocido como **EIA** para valorar los impactos producidos sobre el medio ambiente. Se presentan varias alternativas, buscando la más óptima para un proyecto en concreto.
 
 ---
 
