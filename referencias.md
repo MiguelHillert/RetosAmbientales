@@ -1,4 +1,5 @@
 ## 📖 **Referencias**
+
 **Introduccion**
 - https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta
 
@@ -20,6 +21,5 @@
 - https://estructurales.es/reduccion-de-carga-muerta/minimizacion-de-impacto-ambiental/
 - https://chatgpt.com/
 
-
-problemas ambientales en españa
-https://www.aguaeden.es/blog/problemas-medioambientales 
+**Problemas ambientales en España**
+- https://www.aguaeden.es/blog/problemas-medioambientales 
