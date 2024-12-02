@@ -1,4 +1,4 @@
-# ❎ Impacto de los actuales Problemas Medioambientales.
+# ❎ Impacto de los actuales Problemas Medioambientales
 
 ---
 
