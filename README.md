@@ -3,7 +3,6 @@
 _Un trabajo sobre Retos Ambientales y Sociales_
 
 ![retos](img/claves-para-resolver-problemas-medioambientales-y-soluciones-efectivas.webp)
-![tipos-de-cambio-climatico](https://github.com/user-attachments/assets/a98eaae7-fc3e-4ea4-8ebe-e006dc3a8400)
 
 ---
 
