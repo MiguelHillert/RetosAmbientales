@@ -1,6 +1,6 @@
 Medidas y acciones para minimizar los impactos ambientales y sociales
 
-###Retos Ambientales
+### Retos Ambientales
 
 **Cambio climático (efecto invernadero – calentamiento global)**
 
@@ -31,7 +31,7 @@ Medidas y acciones para minimizar los impactos ambientales y sociales
 * Regular la extracción de recursos naturales para evitar sobreexplotación.
 * Educar a las comunidades sobre prácticas de gestión sostenible.
 
-###Retos Sociales
+### Retos Sociales
 
 **Reducir la desigualdad social y económica**
 
