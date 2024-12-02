@@ -31,7 +31,7 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
 - **Deforestación** a causa de la tala masiva de árboles.
 - **Expansión urbana**: hace que tengamos que erradicar naturaleza para poder seguir expandiendo ciudades, pueblos y seguir construyendo.
 
-### Gestión insostenible de recursos
+### Gestión Insostenible de Recursos
 - **Consumo de agua**: hace referencia a la cantidad de agua que consumimos diariamente, que aunque haya mucha, no es apta para su consumo. Los hogares son el mayor consumidor de agua potable en todo el planeta, mientras que el sector de la agricultra es el que mas agua "no potable" gasta.
 
 ---
@@ -41,10 +41,9 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
 ### Desigualdad Social y Económica
 - **Diferencias entre ser rico y pobre**: en algunos paises, el coste médico y el acceso a la educación no son posibilidades para personas con pocos recursos, ya que cuestan bastante dinero.
 
-### Crisis de migración
+### Crisis de Migración
 - **Guerras, pobreza**: esto provoca que muchas personas tomen la decisión de irse de su país
 
-### Crecimiento demográfico y urbanización
+### Crecimiento Demográfico y Urbanización
 - **Expansión descontrolada y superpoblación**: según la ONU, se prevee que en el año 2050, la población de la tierra estará rondando los 9.7 millones de personas, siendo India (1441 millones), China (1410 millones) y Estados Unidos (337 millones), los 3 países más poblados del mundo.
 - **Contaminación lumínica**: se produce cuando luz artificial de una zona urbanizada es excesiva, alterando los ciclos naturales, la salud de las personas, etc
-
