@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍👩‍👧‍👦 _Retos sociales_
+## 👨‍👩‍👧‍👦 _Retos Sociales_
 
 ### Desigualdad Social y Económica (Diferencia entre Rico y Pobre)
 
