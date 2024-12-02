@@ -1,5 +1,11 @@
 # ☑️ Medidas y Acciones
 
+---
+
+Cabe destacar la importancia de realizar una Evaluación de Impacto Ambiental, también conocido como EIA para valorar los impactos producidos sobre el medio ambiente. Se presentan varias alternativas, buscando la más óptima para un proyecto en concreto.
+
+---
+
 ### 🥀 Retos Ambientales
 
 ### Cambio climático (efecto invernadero – calentamiento global)
@@ -49,7 +55,6 @@
 
 * Implementar programas de planificación familiar y acceso a métodos anticonceptivos.
 * Fomentar políticas de urbanización sostenible y descentralización de las ciudades.
-* Llevar a cabo una Evaluación de Impacto Ambiental (EIA) para analizar los efectos sobre el medio ambiente derivados del desarrollo de un plan, programa o proyecto antes de realizarlo.
 
 ### Mejorar el acceso a educación y salud
 
