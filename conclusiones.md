@@ -8,4 +8,3 @@ Inculcar en las industrias de cualquier sector, pautas a seguir para la reducci�
 
 Respecto a los retos sociales, debemos de erradicar la pobreza y ayudar siempre al pueblo, para que los derechos básicos no le falte a nadie como la asistencia sanitaria o la educación.
 
-![foto](img/logo_medioambiental.png)
