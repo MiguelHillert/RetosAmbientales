@@ -1,4 +1,4 @@
-## 📑 **Introduccion**
+## 📑 Introduccion
 
 En este proyecto vamos a tratar sobre 🥇 el cambio climatico, pero no sólo de esto. Hay otros problemas también muy importantes que se deben de solventar, por nosotros y por los que vivirán en un futuro. Aqui veremos en detalle los principales problemas y hablaremos de ellos, junto con las medidas y acciones que debemos realizar.
 
