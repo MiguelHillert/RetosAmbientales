@@ -1,30 +1,6 @@
 
 1.3. Impacto de los actuales problemas medioambientales.
-https://ciencia.nasa.gov/cambio-climatico/los-efectos-del-cambio-climatico/
 
-https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta
-https://www.soziable.es/entorno/diez-problemas-medioambientales-que-impactan-en-espana
-https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/
-
-problemas ambientales en españa
-https://www.aguaeden.es/blog/problemas-medioambientales 
-
--GUION QUE DEBO SEGUIR
-Retos ambientales
-1.Cambio climático(efecto invernadero – Calentamiento global)
-Debido a los actos de la humanidad en el pasado y mas recientemente, las temperaturas medias cada vez son mas altas
-2.Contaminacion(contaminacion de aire , tierra y mar)
-3.Perdida de la biodiversidad(deforestacion,expansion urbana)
-4.Gestion Insostenible de recursos
-
-Retos sociales
-1.Desigualdad social y economica(diferencia entre rico y pobre)
-2.Crisis de migracion (guerras , pobreza)
-3.Crecimiento demografico (expansion descontrolada y superpoblacion )
-4.Falta de acceso a educacion y salud (ausencia de servicios basicos la gente con menos recursos)
-
-
-Impacto de los actuales problemas ambientales
 
 Retos Ambientales 
 
@@ -67,30 +43,6 @@ La superpoblación intensifica la demanda de recursos como agua, alimentos y ene
 La falta de acceso a la educación limita el conocimiento sobre prácticas sostenibles, mientras que la falta de salud adecuada puede agravar problemas de higiene y contaminación. Las comunidades sin servicios básicos suelen depender de métodos de supervivencia no sostenibles, como la tala ilegal o la quema de combustibles sólidos, lo que contribuye a la degradación ambiental.
 
 
-Medidas y acciones para reducir el impacto
--Reducir la desigualdad social y económica
-
-Promover políticas fiscales progresivas y redistribución equitativa de recursos.
-Fomentar economías circulares que ofrezcan empleos verdes y sostenibles.
-Incentivar el consumo responsable en las clases más altas y la inclusión social en el acceso a tecnologías sostenibles.
-
--Gestionar la crisis de migración
-
-Crear programas de reforestación y restauración ecológica en áreas receptoras y de origen.
-Desarrollar infraestructuras sostenibles en asentamientos migratorios.
-Fomentar la paz y la inversión en desarrollo sostenible en las regiones de origen.
-
--Controlar el crecimiento demográfico
-
-Implementar programas de planificación familiar y acceso a métodos anticonceptivos.
-Fomentar políticas de urbanización sostenible y descentralización de las ciudades.
-Promover una cultura de consumo más eficiente y sostenible.
-
--Mejorar el acceso a educación y salud
-
-Establecer programas educativos enfocados en sostenibilidad ambiental.
-Garantizar acceso a servicios básicos de salud y saneamiento, reduciendo prácticas dañinas para el medio ambiente.
-Desarrollar proyectos comunitarios que integren soluciones ecológicas como energías renovables y agricultura regenerativa.
 
 
 
