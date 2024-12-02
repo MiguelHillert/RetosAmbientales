@@ -1,4 +1,4 @@
-# Medidas y acciones para minimizar los impactos ambientales y sociales
+# ☑️ Medidas y Acciones
 
 ### 🥀 Retos Ambientales
 
