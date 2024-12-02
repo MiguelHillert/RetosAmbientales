@@ -26,7 +26,7 @@
 
 ## 👨‍👩‍👧‍👦 _Retos Sociales_
 
-### Desigualdad Social y Económica (Diferencia entre Rico y Pobre)
+### Desigualdad Social y Económica (Diferencia entre Clases Sociales)
 
 - Genera un uso ineficiente de los recursos naturales. Los sectores más ricos consumen más el carbono (uso de combustibles fósiles, desperdicio de alimentos, etc.), mientras que los más pobres recurren a la explotación ambiental, como deforestación, la pesca no sostenible, etc. debido a la falta de alternativas. Esto aumenta la degradación ambiental y limita la capacidad de regeneración de los ecosistemas.
 
