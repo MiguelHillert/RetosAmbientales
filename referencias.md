@@ -8,3 +8,18 @@
 - https://www.fundacionaquae.org/wiki/el-plastico-se-convertira-en-un-importante-impulsor-del-cambio-climatico/amp/?gad_source=1&gclid=Cj0KCQiAr7C6BhDRARIsAOUKifiILzP7k3VUxgP1QPNdYBLZCshXut6kiFiJSSsDktILammdsNPI-dAaAtC2EALw_wcB
 - https://www.lifeecogranularwater.com/los-sectores-economicos-que-mas-agua-potable-consumen-serian-los-mas-beneficiados-de-la-tecnologia-ecogranularwater/#:~:text=La%20mayor%20parte%20de%20las,municipales%20(5%2D10%25).
 - https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta
+
+**Impacto de los actuales problemas medioambientales**
+- https://ciencia.nasa.gov/cambio-climatico/los-efectos-del-cambio-climatico/
+- https://www.ecolatras.es/blog/cambio-climatico/problemas-medioambientales-del-planeta
+- https://www.soziable.es/entorno/diez-problemas-medioambientales-que-impactan-en-espana
+- https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/
+
+**Medidas y acciones para minimizar los impactos ambientales**
+- https://www.eurofins-environment.es/es/evaluacion-impacto-ambiental-eia/
+- https://estructurales.es/reduccion-de-carga-muerta/minimizacion-de-impacto-ambiental/
+- https://chatgpt.com/
+
+
+problemas ambientales en españa
+https://www.aguaeden.es/blog/problemas-medioambientales 
