@@ -13,7 +13,7 @@ Cabe destacar la importancia de realizar una _Evaluación de Impacto Ambiental_,
 * Transición a energías renovables como solar y eólica.
 * Promover el transporte sostenible, como vehículos eléctricos y transporte público eficiente.
 * Reforestar y restaurar ecosistemas naturales como sumideros de carbono.
-* Fomentar el uso de electrodomésticos y dispositivos electrónicos con etiqueta A (en una escala energética de A a G , siendo la A los mas eficientes y la G los menos eficientes).
+* Fomentar el uso de electrodomésticos y dispositivos electrónicos con etiqueta A (en una escala energética de A a G, siendo la A los más eficientes y la G los menos eficientes).
 
 ### Contaminación (Aire, Tierra y Mar)
 
@@ -24,11 +24,10 @@ Cabe destacar la importancia de realizar una _Evaluación de Impacto Ambiental_,
 
 ### Pérdida de Biodiversidad (Deforestación, Expansión urbana)
 
-* Fomentar el compostaje,transformando residuos orgánicos en abono, reduciendo la basura enviada a vertederos y cerrando el ciclo de nutrientes.
+* Fomentar el compostaje, transformando residuos orgánicos en abono, reduciendo la basura enviada a vertederos y cerrando el ciclo de nutrientes.
 * Proteger áreas naturales mediante reservas y parques nacionales.
 * Promover la planificación urbana sostenible y limitar la expansión descontrolada.
 * Realizar prácticas agrícolas regenerativas y sistemas agroforestales.
-
 
 ### Gestión Insostenible de Recursos
 
