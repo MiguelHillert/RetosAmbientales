@@ -22,7 +22,7 @@ Para reducir la contaminación, los retos que tenemos que seguir son los siguien
   - Acostumbrarnos a reciclar para evitar el uso de materias primas y reducir deshechos.
 
 * **Manejo de la contaminación lumínica**
-  - Se deberían de gestionar el derroche energético ocurrido en alguinos lugares como paises, pueblos, ciudades, etc.
+  - Se deberían de gestionar el derroche energético ocurrido en algunos lugares como paises, pueblos, ciudades, etc.
 
 * **Plásticos como emisores de carbono**
   - Quizás hablemos de unos de los temas más importantes hoy en día ya que las emisiones de la producción, transporte, incineración y degradación del plástico equivale a las emisiones anuales de 200 centrales eléctricas.
