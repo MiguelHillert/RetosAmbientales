@@ -15,18 +15,13 @@ _Un trabajo sobre Retos Ambientales y Sociales_
 
 ---
 
-## 📑 Conclusiones
-[Ver documento](conclusiones.md)
+## 📑 Conclusiones [Ver](conclusiones.md)
 
-## 🧷 Mapa conceptual
-[Ver documento](mapa_conceptual.md)
+## 🧷 Mapa conceptual [Ver](mapa_conceptual.md)
 
-## 📘 Glosario
-[Ver documento](glosario.md)
+## 📘 Glosario [Ver](glosario.md)
 
-## 📖 Referencias
-[Ver documento](referencias.md)
+## 📖 Referencias [Ver](referencias.md)
 
-## ✍️ Autores
-[Ver documento](autores.md)
+## ✍️ Autores [Ver](autores.md)
 
